@@ -31,7 +31,7 @@ public class Parametros extends javax.swing.JFrame {
             count += parameters[i];
         }
         if(count>11){
-            JOptionPane.showMessageDialog(null, "¡Debe haber máximo 11 productores!");
+            JOptionPane.showMessageDialog(null, "¡Debe haber máximo 11 creadores!");
             return false;
         }else return true;
     }
