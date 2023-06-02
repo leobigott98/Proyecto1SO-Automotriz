@@ -175,7 +175,7 @@ public class Menu extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         //        this.l1 = new Lector();
-        l1.readFile(new File("C:\\Users\\l_a_b\\Dropbox\\PC\\Documents\\NetBeansProjects\\Proyecto1SOBigott\\src\\archivos\\Default Parameters.csv"));
+        l1.readFile(new File("C:\\Users\\l_a_b\\Dropbox\\PC\\Documents\\NetBeansProjects\\ProyectoAutomotriz-SO1\\src\\Files\\Default Parameters.csv"));
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
